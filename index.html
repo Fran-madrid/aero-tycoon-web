@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Aero Tycoon</title>
+<meta name="description" content="Aero Tycoon: crea y gestiona tu propia aerolínea en Europa. Juego de gestión pixel art para móvil.">
+<link rel="icon" href="icon.svg">
+<style>
+  /* Una sola columna centrada, con los colores del juego: cielo nocturno y acento dorado */
+  :root { --bg: #0b1426; --panel: #14223e; --line: rgba(240,170,60,.25); --text: #eef3fb; --muted: #b6c3d9; --accent: #f0aa3c; color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body { margin: 0; min-height: 100vh; background: radial-gradient(ellipse at 50% 0%, #1f3d6b 0%, var(--bg) 60%) fixed, var(--bg); color: var(--text); font: 17px/1.55 -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  main { max-width: 620px; margin: 0 auto; padding: 56px 20px 40px; display: flex; flex-direction: column; gap: 28px; }
+  .hero { display: flex; gap: 20px; align-items: center; }
+  .hero img { width: 96px; height: 96px; border-radius: 22px; flex: none; image-rendering: pixelated; box-shadow: 0 10px 40px rgba(80,140,230,.3); }
+  h1 { margin: 0; font-size: 34px; letter-spacing: .02em; }
+  .tag { margin: 4px 0 0; color: var(--muted); }
+  p { margin: 0; }
+  .card { background: var(--panel); border: 1px solid var(--line); border-radius: 16px; padding: 18px 20px; display: flex; flex-direction: column; gap: 8px; }
+  .card h2 { margin: 0; font-size: 15px; text-transform: uppercase; letter-spacing: .08em; color: var(--accent); }
+  a { color: var(--accent); }
+  .stores { display: flex; gap: 12px; flex-wrap: wrap; }
+  .store { display: inline-flex; align-items: center; gap: 10px; padding: 9px 18px 9px 14px; min-width: 190px; border-radius: 12px; background: #000; border: 1px solid rgba(255,255,255,.35); color: #fff; text-decoration: none; }
+  .store svg { width: 28px; height: 28px; flex: none; }
+  .store span { display: flex; flex-direction: column; font-size: 21px; font-weight: 600; line-height: 1.1; }
+  .store small { font-size: 11px; font-weight: 400; letter-spacing: .02em; }
+  .store.off { opacity: .55; }
+  footer { color: var(--muted); font-size: 14px; }
+  @media (max-width: 420px) { .hero { flex-direction: column; align-items: flex-start; } .store { flex: 1 1 100%; } }
+</style>
+</head>
+<body>
+<main>
+  <div class="hero">
+    <img src="icon.svg" alt="Icono de Aero Tycoon">
+    <div>
+      <h1>Aero Tycoon</h1>
+      <p class="tag">Funda tu aerolínea y llénala de rutas por toda Europa.</p>
+    </div>
+  </div>
+
+  <p>Juego de gestión pixel art para móvil: compra aviones, diseña rotaciones entre 35 aeropuertos, cuida de tu tripulación, aprovecha las temporadas y los eventos, y supera a las aerolíneas rivales.</p>
+  <div class="stores">
+    <div class="store off" aria-disabled="true">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M4 2.6c-.3.3-.4.7-.4 1.2v16.4c0 .5.1.9.4 1.2l9.2-9.4L4 2.6zm10.6 10.8 2.6 2.7-11.6 6.6c-.4.2-.8.3-1.1.2l10.1-9.5zm0-2.8L4.5 1.1c.3-.1.7 0 1.1.2l11.6 6.6-2.6 2.7zm3.9-2 3 1.7c.9.5.9 1.8 0 2.3l-3 1.7-2.9-2.9 2.9-2.8z"/></svg>
+      <span><small>Muy pronto en</small>Google Play</span>
+    </div>
+    <div class="store off" aria-disabled="true">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M16.4 12.6c0-2.6 2.1-3.8 2.2-3.9-1.2-1.8-3.1-2-3.7-2-1.6-.2-3.1.9-3.9.9-.8 0-2-.9-3.4-.9-1.7 0-3.3 1-4.2 2.6-1.8 3.1-.5 7.7 1.3 10.2.9 1.2 1.9 2.6 3.2 2.6 1.3-.1 1.8-.8 3.3-.8 1.6 0 2 .8 3.4.8 1.4 0 2.3-1.3 3.1-2.5 1-1.4 1.4-2.8 1.4-2.9 0 0-2.7-1-2.7-4.1zM13.9 5c.7-.9 1.2-2 1-3.2-1 0-2.3.7-3 1.6-.7.8-1.2 2-1.1 3.1 1.2.1 2.3-.6 3.1-1.5z"/></svg>
+      <span><small>Muy pronto en el</small>App Store</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Soporte</h2>
+    <p>¿Dudas, problemas con una compra o sugerencias? Escríbenos a <a href="mailto:contacto@franmorales.dev">contacto@franmorales.dev</a>.</p>
+    <p>El pase sin anuncios se recupera solo al abrir el juego con la misma cuenta de la tienda.</p>
+  </div>
+
+  <div class="card">
+    <h2>Privacidad</h2>
+    <p>El juego no pide registro y guarda tu partida solo en tu dispositivo. Lee la <a href="privacidad.html">política de privacidad</a> (<a href="privacidad.html#en">English</a>).</p>
+  </div>
+
+  <footer>© 2026 Fran Morales · Aero Tycoon</footer>
+</main>
+</body>
+</html>
