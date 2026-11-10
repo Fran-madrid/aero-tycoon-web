@@ -1,39 +1,33 @@
 {
-  "version": "0.6.2",
+  "version": "0.7.0",
   "es": [
-    "🔊 Música y efectos de sonido (volumen en Ajustes).",
-    "✈ Vende o revisa un avión aunque esté volando: se hace al aterrizar.",
-    "🗺 Empieza rotaciones nuevas desde cualquiera de tus hubs.",
-    "⚖ Economía más equilibrada y menús más claros."
+    "👩‍✈️ Tutorial: Marta, tu jefa de operaciones, te guía en los primeros pasos y te da consejos en cada menú.",
+    "🔁 Puedes repetirlo cuando quieras desde Ajustes.",
+    "🛠 Las listas largas ya no saltan hacia arriba al llegar al final."
   ],
   "en": [
-    "🔊 Music and sound effects (volume in Settings).",
-    "✈ Sell or service a plane even while it's flying: it happens when it lands.",
-    "🗺 Start new rotations from any of your hubs.",
-    "⚖ Better-balanced economy and clearer menus."
+    "👩‍✈️ Tutorial: Marta, your head of operations, guides your first steps and gives tips in every menu.",
+    "🔁 Replay it anytime from Settings.",
+    "🛠 Long lists no longer jump up when you reach the end."
   ],
   "fr": [
-    "🔊 Musique et effets sonores (volume dans Réglages).",
-    "✈ Vends ou révise un avion même en vol : c'est fait à l'atterrissage.",
-    "🗺 Lance de nouvelles rotations depuis n'importe lequel de tes hubs.",
-    "⚖ Économie mieux équilibrée et menus plus clairs."
+    "👩‍✈️ Tutoriel : Marta, ta cheffe des opérations, guide tes premiers pas et donne des conseils dans chaque menu.",
+    "🔁 Tu peux le revoir quand tu veux depuis Réglages.",
+    "🛠 Les longues listes ne remontent plus toutes seules en bas de page."
   ],
   "de": [
-    "🔊 Musik und Soundeffekte (Lautstärke in den Einstellungen).",
-    "✈ Verkaufe oder warte ein Flugzeug auch im Flug: Es passiert nach der Landung.",
-    "🗺 Starte neue Umläufe von jedem deiner Drehkreuze.",
-    "⚖ Ausgewogenere Wirtschaft und übersichtlichere Menüs."
+    "👩‍✈️ Tutorial: Marta, deine Leiterin des Flugbetriebs, begleitet deine ersten Schritte und gibt Tipps in jedem Menü.",
+    "🔁 Du kannst es jederzeit in den Einstellungen wiederholen.",
+    "🛠 Lange Listen springen am Ende nicht mehr nach oben."
   ],
   "it": [
-    "🔊 Musica ed effetti sonori (volume nelle Impostazioni).",
-    "✈ Vendi o revisiona un aereo anche in volo: avviene all'atterraggio.",
-    "🗺 Avvia nuove rotazioni da qualsiasi tuo hub.",
-    "⚖ Economia più equilibrata e menu più chiari."
+    "👩‍✈️ Tutorial: Marta, la tua responsabile operativa, ti guida nei primi passi e dà consigli in ogni menu.",
+    "🔁 Puoi ripeterlo quando vuoi dalle Impostazioni.",
+    "🛠 Le liste lunghe non saltano più verso l'alto alla fine."
   ],
   "pt": [
-    "🔊 Música e efeitos sonoros (volume em Ajustes).",
-    "✈ Venda ou revise um avião mesmo em voo: acontece ao pousar.",
-    "🗺 Comece novas rotações a partir de qualquer um dos seus hubs.",
-    "⚖ Economia mais equilibrada e menus mais claros."
+    "👩‍✈️ Tutorial: Marta, sua chefe de operações, guia seus primeiros passos e dá dicas em cada menu.",
+    "🔁 Repita quando quiser em Ajustes.",
+    "🛠 Listas longas não pulam mais para cima ao chegar ao fim."
   ]
 }
