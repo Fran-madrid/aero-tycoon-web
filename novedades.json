@@ -1,45 +1,39 @@
 {
-  "version": "0.3.0",
+  "version": "0.6.2",
   "es": [
-    "📱 Juega en vertical u horizontal.",
-    "⚙ Nuevo menú de Ajustes: idioma, avisos y privacidad.",
-    "✈ Rotaciones: cada avión puede recorrer hasta 4 aeropuertos en bucle.",
-    "🏆 Aerolíneas rivales, temporadas, eventos y 35 aeropuertos.",
-    "🌍 Ahora en español, inglés, francés, alemán, italiano y portugués."
+    "🔊 Música y efectos de sonido (volumen en Ajustes).",
+    "✈ Vende o revisa un avión aunque esté volando: se hace al aterrizar.",
+    "🗺 Empieza rotaciones nuevas desde cualquiera de tus hubs.",
+    "⚖ Economía más equilibrada y menús más claros."
   ],
   "en": [
-    "📱 Play in portrait or landscape.",
-    "⚙ New Settings menu: language, notifications and privacy.",
-    "✈ Rotations: each plane can fly up to 4 airports in a loop.",
-    "🏆 Rival airlines, seasons, events and 35 airports.",
-    "🌍 Now in Spanish, English, French, German, Italian and Portuguese."
+    "🔊 Music and sound effects (volume in Settings).",
+    "✈ Sell or service a plane even while it's flying: it happens when it lands.",
+    "🗺 Start new rotations from any of your hubs.",
+    "⚖ Better-balanced economy and clearer menus."
   ],
   "fr": [
-    "📱 Joue en portrait ou en paysage.",
-    "⚙ Nouveau menu Réglages : langue, notifications et confidentialité.",
-    "✈ Rotations : chaque avion peut relier jusqu'à 4 aéroports en boucle.",
-    "🏆 Compagnies rivales, saisons, événements et 35 aéroports.",
-    "🌍 Désormais en espagnol, anglais, français, allemand, italien et portugais."
+    "🔊 Musique et effets sonores (volume dans Réglages).",
+    "✈ Vends ou révise un avion même en vol : c'est fait à l'atterrissage.",
+    "🗺 Lance de nouvelles rotations depuis n'importe lequel de tes hubs.",
+    "⚖ Économie mieux équilibrée et menus plus clairs."
   ],
   "de": [
-    "📱 Spiele im Hoch- oder Querformat.",
-    "⚙ Neues Einstellungsmenü: Sprache, Benachrichtigungen und Datenschutz.",
-    "✈ Umläufe: Jedes Flugzeug fliegt bis zu 4 Flughäfen im Kreis an.",
-    "🏆 Rivalisierende Airlines, Saisons, Events und 35 Flughäfen.",
-    "🌍 Jetzt auf Spanisch, Englisch, Französisch, Deutsch, Italienisch und Portugiesisch."
+    "🔊 Musik und Soundeffekte (Lautstärke in den Einstellungen).",
+    "✈ Verkaufe oder warte ein Flugzeug auch im Flug: Es passiert nach der Landung.",
+    "🗺 Starte neue Umläufe von jedem deiner Drehkreuze.",
+    "⚖ Ausgewogenere Wirtschaft und übersichtlichere Menüs."
   ],
   "it": [
-    "📱 Gioca in verticale o in orizzontale.",
-    "⚙ Nuovo menu Impostazioni: lingua, notifiche e privacy.",
-    "✈ Rotazioni: ogni aereo può collegare fino a 4 aeroporti in loop.",
-    "🏆 Compagnie rivali, stagioni, eventi e 35 aeroporti.",
-    "🌍 Ora in spagnolo, inglese, francese, tedesco, italiano e portoghese."
+    "🔊 Musica ed effetti sonori (volume nelle Impostazioni).",
+    "✈ Vendi o revisiona un aereo anche in volo: avviene all'atterraggio.",
+    "🗺 Avvia nuove rotazioni da qualsiasi tuo hub.",
+    "⚖ Economia più equilibrata e menu più chiari."
   ],
   "pt": [
-    "📱 Jogue na vertical ou na horizontal.",
-    "⚙ Novo menu de Ajustes: idioma, notificações e privacidade.",
-    "✈ Rotações: cada avião pode voar entre até 4 aeroportos em ciclo.",
-    "🏆 Companhias rivais, temporadas, eventos e 35 aeroportos.",
-    "🌍 Agora em espanhol, inglês, francês, alemão, italiano e português."
+    "🔊 Música e efeitos sonoros (volume em Ajustes).",
+    "✈ Venda ou revise um avião mesmo em voo: acontece ao pousar.",
+    "🗺 Comece novas rotações a partir de qualquer um dos seus hubs.",
+    "⚖ Economia mais equilibrada e menus mais claros."
   ]
 }
