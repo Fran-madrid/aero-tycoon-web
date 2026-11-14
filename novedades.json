@@ -1,33 +1,51 @@
 {
-  "version": "0.7.0",
+  "version": "0.8.0",
   "es": [
-    "👩‍✈️ Tutorial: Marta, tu jefa de operaciones, te guía en los primeros pasos y te da consejos en cada menú.",
-    "🔁 Puedes repetirlo cuando quieras desde Ajustes.",
-    "🛠 Las listas largas ya no saltan hacia arriba al llegar al final."
+    "⏸ El tiempo se para solo con un menú abierto (se puede quitar en Ajustes).",
+    "📋 Botón Registro: repasa los últimos avisos de rivales, eventos y encargos.",
+    "⭐ El panel de objetivos enseña también encargos y ofertas, y deja aceptarlas.",
+    "✏️ Ajustes: cambia el nombre de tu aerolínea y usa su color en la interfaz.",
+    "🗺 Mapa repintado y barra superior más ordenada.",
+    "🛠 Si el juego se cierra de golpe, puedes enviarnos un informe."
   ],
   "en": [
-    "👩‍✈️ Tutorial: Marta, your head of operations, guides your first steps and gives tips in every menu.",
-    "🔁 Replay it anytime from Settings.",
-    "🛠 Long lists no longer jump up when you reach the end."
+    "⏸ Time stops by itself while a menu is open (can be turned off in Settings).",
+    "📋 Log button: review the latest notices about rivals, events and jobs.",
+    "⭐ The goals panel also shows jobs and offers, and lets you accept them.",
+    "✏️ Settings: rename your airline and use its colour in the interface.",
+    "🗺 Repainted map and a tidier top bar.",
+    "🛠 If the game closes unexpectedly, you can send us a report."
   ],
   "fr": [
-    "👩‍✈️ Tutoriel : Marta, ta cheffe des opérations, guide tes premiers pas et donne des conseils dans chaque menu.",
-    "🔁 Tu peux le revoir quand tu veux depuis Réglages.",
-    "🛠 Les longues listes ne remontent plus toutes seules en bas de page."
+    "⏸ Le temps s'arrête tout seul quand un menu est ouvert (désactivable dans Réglages).",
+    "📋 Bouton Journal : relis les derniers avis sur les rivaux, événements et commandes.",
+    "⭐ Le panneau des objectifs montre aussi commandes et offres, et permet de les accepter.",
+    "✏️ Réglages : renomme ta compagnie et utilise sa couleur dans l'interface.",
+    "🗺 Carte repeinte et barre du haut mieux rangée.",
+    "🛠 Si le jeu se ferme d'un coup, tu peux nous envoyer un rapport."
   ],
   "de": [
-    "👩‍✈️ Tutorial: Marta, deine Leiterin des Flugbetriebs, begleitet deine ersten Schritte und gibt Tipps in jedem Menü.",
-    "🔁 Du kannst es jederzeit in den Einstellungen wiederholen.",
-    "🛠 Lange Listen springen am Ende nicht mehr nach oben."
+    "⏸ Die Zeit hält von selbst an, solange ein Menü offen ist (in den Einstellungen abschaltbar).",
+    "📋 Protokoll: Lies die letzten Meldungen zu Rivalen, Events und Aufträgen nach.",
+    "⭐ Das Ziel-Feld zeigt auch Aufträge und Angebote – direkt annehmbar.",
+    "✏️ Einstellungen: Airline umbenennen und ihre Farbe für die Oberfläche nutzen.",
+    "🗺 Neu gemalte Karte und aufgeräumtere obere Leiste.",
+    "🛠 Bei einem Absturz kannst du uns jetzt einen Bericht schicken."
   ],
   "it": [
-    "👩‍✈️ Tutorial: Marta, la tua responsabile operativa, ti guida nei primi passi e dà consigli in ogni menu.",
-    "🔁 Puoi ripeterlo quando vuoi dalle Impostazioni.",
-    "🛠 Le liste lunghe non saltano più verso l'alto alla fine."
+    "⏸ Il tempo si ferma da solo con un menu aperto (disattivabile in Impostazioni).",
+    "📋 Pulsante Registro: rileggi gli ultimi avvisi su rivali, eventi e incarichi.",
+    "⭐ Il pannello degli obiettivi mostra anche incarichi e offerte, e permette di accettarle.",
+    "✏️ Impostazioni: rinomina la tua compagnia e usa il suo colore nell'interfaccia.",
+    "🗺 Mappa ridipinta e barra superiore più ordinata.",
+    "🛠 Se il gioco si chiude all'improvviso, puoi inviarci un rapporto."
   ],
   "pt": [
-    "👩‍✈️ Tutorial: Marta, sua chefe de operações, guia seus primeiros passos e dá dicas em cada menu.",
-    "🔁 Repita quando quiser em Ajustes.",
-    "🛠 Listas longas não pulam mais para cima ao chegar ao fim."
+    "⏸ O tempo para sozinho com um menu aberto (dá para desativar em Ajustes).",
+    "📋 Botão Registro: reveja os últimos avisos de rivais, eventos e encomendas.",
+    "⭐ O painel de objetivos mostra também encomendas e ofertas, e deixa aceitá-las.",
+    "✏️ Ajustes: renomeie sua companhia e use a cor dela na interface.",
+    "🗺 Mapa repintado e barra superior mais organizada.",
+    "🛠 Se o jogo fechar de repente, você pode nos enviar um relatório."
   ]
 }
